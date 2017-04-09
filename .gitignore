@@ -1,2 +1,6 @@
 # Code Analysis
 StyleCopViolations.xml
+
+# Build files
+bin
+obj
