@@ -4,3 +4,4 @@ StyleCopViolations.xml
 # Build files
 bin
 obj
+.vs
